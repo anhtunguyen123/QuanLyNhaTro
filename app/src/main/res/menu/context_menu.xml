@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/rent_room"
+        android:title="Thuê phòng" />
+    <item
+        android:id="@+id/delete_room"
+        android:title="Xóa phòng" />
+    <item
+        android:id="@+id/update_room"
+        android:title="Cập nhật Phòng" />
+    <item
+        android:id="@+id/hopdong_room"
+        android:title="Tạo hợp đồng" />
+    <item
+        android:id="@+id/view_info"
+        android:title="Xem thông tin phòng" />
+    <item
+        android:id="@+id/thongtinkhachthue"
+        android:title="Thông tin khách Thuê" />
+</menu>
